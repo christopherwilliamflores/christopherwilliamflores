@@ -16,3 +16,6 @@
 ***Social media:***
 - <a href="https://www.linkedin.com/in/christopherwfr/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/linkedin.png">
   </a>&nbsp;&nbsp;
+
+***Email:***
+- *christopher.flores.ri@gmail.com*
