@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hello 👋, my name is Christopher William Flores Rimac, I am a student of Computer Science at UTEC.
 <!--
 **christopherwilliamflores/christopherwilliamflores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
