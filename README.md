@@ -1,4 +1,4 @@
-### Hello 👋, my name is Christopher William Flores Rimac, I am a student of Computer Science at UTEC.
+### Hello 👋, my name is Christopher William Flores Rimac, I am a student of Computer Science at UTEC, i like to experiment in design, study new things, focusing on the user experience area.
 
 ***Languages***:
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
