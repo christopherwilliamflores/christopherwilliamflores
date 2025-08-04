@@ -1,60 +1,67 @@
-### 👋 ¡Hola! Soy Christopher William Flores Rimac
+# 👋 Hola, soy Christopher William Flores Rimac
 
-🎓 Estudiante de Ingeniería de Sistemas en la UPC | 🧠 Apasionado por la Ciencia de Datos, el Desarrollo Web y el Diseño centrado en el usuario.
-
-Actualmente estoy enfocado en aplicar soluciones digitales combinando programación, análisis de datos y diseño interactivo. Me interesa especialmente el análisis predictivo, la visualización de datos y la automatización de procesos. He participado en diversos proyectos aplicando herramientas tecnológicas y metodologías ágiles.
-
----
-
-### 🛠️ Tecnologías y Lenguajes
-
-**Lenguajes de Programación:**
-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Herramientas de Ciencia de Datos:**
-- Jupyter Notebook
-- Pandas, Numpy, Matplotlib, Scikit-learn
-- Power BI, Excel Avanzado (incl. Macros)
-
-**Bases de Datos:**
-- PostgreSQL
-- MySQL
-
-**Entornos y DevOps:**
-- Git & GitHub
-- VS Code
-- Google Colab
+🎓 Estudiante de Ingeniería de Sistemas en la UPC | 📊 Data Analyst en formación  
+💻 Apasionado por la ciencia de datos, desarrollo web y soluciones tecnológicas con impacto social.  
 
 ---
 
-### 🎨 Diseño y Software Creativo
+## 🚀 Sobre mí
 
-- ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-- ![Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-- ![After Effects](https://img.shields.io/badge/After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-- ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-- ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+Soy un estudiante avanzado de Ingeniería de Sistemas en la Universidad Peruana de Ciencias Aplicadas (UPC), con experiencia práctica en ciencia de datos, análisis digital y desarrollo web. He trabajado en proyectos que integran Python, SQL, Power BI, Google Tag Manager, automatización con scripts, visualización de datos y gestión digital en entornos reales.  
+Además, he sido docente de programación para niños y actualmente desarrollo soluciones tecnológicas con enfoque en la experiencia del usuario.
 
 ---
 
-### 📚 Formación Complementaria
+## 🧠 Lenguajes de Programación
 
-- Bootcamp de Ciencia de Datos – TripleTen (2025)
-- Certificación PMI Ready – IPAE Zegel
-- Cursos en Coursera, edX y Udemy sobre Ciencia de Datos, UX/UI y Automatización
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 
 ---
 
-### 💼 ¿Qué busco?
+## 📊 Ciencia de Datos y BI
 
-Oportunidades para seguir creciendo como **Data Scientist**, **Analista de Datos** o **Desarrollador Front-End**, aportando valor con creatividad, pensamiento crítico y compromiso con la mejora continua.
+- Análisis exploratorio y limpieza de datos con Pandas y Python  
+- Modelos de Machine Learning con Scikit-learn  
+- Visualización con Power BI, Tableau y Matplotlib  
+- Automatización de reportes y dashboards  
+- Consultas SQL sobre bases de datos relacionales  
+- Integración de eventos con Google Tag Manager y análisis con Google Analytics  
 
 ---
 
-📫 **Conecta conmigo**:
-- [LinkedIn](https://www.linkedin.com/in/christopherfloresrimac) *(actualiza si es necesario)*
-- [GitHub](https://github.com/tuusuario) *(actualiza si es necesario)*
+## 🧰 Herramientas y Software
+
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=PowerBI&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Google Tag Manager](https://img.shields.io/badge/Google%20Tag%20Manager-375EAB?style=for-the-badge&logo=googletagmanager&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%2300f.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759b?style=for-the-badge&logo=WordPress&logoColor=white)
+
+---
+
+## 📚 Formación
+
+- **Ingeniería de Sistemas** – UPC (en curso)  
+- **Bootcamp en Ciencia de Datos** – TripleTen  
+- **Cursos complementarios** – Coursera, Platzi, IBM, Google  
+
+---
+
+## 🌐 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopherwilliamflores)  
+📫 cwilliamflores@gmail.com | 📱 +51 933 242 513  
+
+---
+
+✨ Gracias por visitar mi perfil. Siempre estoy abierto a nuevas colaboraciones y oportunidades para seguir aprendiendo y aportando valor con tecnología.
