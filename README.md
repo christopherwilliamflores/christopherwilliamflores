@@ -1,40 +1,60 @@
-### Hello 👋, I'm Christopher William Flores Rimac
+### 👋 ¡Hola! Soy Christopher William Flores Rimac
 
-🎓 I'm currently studying Computer Engineering at Universidad Peruana de Ciencias Aplicadas (UPC).  
-🧠 Passionate about data, automation, and user-centered design.  
-💡 I enjoy exploring creative tech solutions that merge functionality with a great user experience.
+🎓 Estudiante de Ingeniería de Sistemas en la UPC | 🧠 Apasionado por la Ciencia de Datos, el Desarrollo Web y el Diseño centrado en el usuario.
+
+Actualmente estoy enfocado en aplicar soluciones digitales combinando programación, análisis de datos y diseño interactivo. Me interesa especialmente el análisis predictivo, la visualización de datos y la automatización de procesos. He participado en diversos proyectos aplicando herramientas tecnológicas y metodologías ágiles.
 
 ---
 
-**💻 Languages & Tools**
+### 🛠️ Tecnologías y Lenguajes
 
+**Lenguajes de Programación:**
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-- ![SQL](https://img.shields.io/badge/SQL-%2300C7B7.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-- ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-- ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Herramientas de Ciencia de Datos:**
+- Jupyter Notebook
+- Pandas, Numpy, Matplotlib, Scikit-learn
+- Power BI, Excel Avanzado (incl. Macros)
+
+**Bases de Datos:**
+- PostgreSQL
+- MySQL
+
+**Entornos y DevOps:**
+- Git & GitHub
+- VS Code
+- Google Colab
 
 ---
 
-**🎨 Creative Software**
+### 🎨 Diseño y Software Creativo
 
-- ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-- ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-- ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-- ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
+- ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+- ![Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+- ![After Effects](https://img.shields.io/badge/After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
+- ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 - ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
 ---
 
-**📚 Lifelong Learning**
+### 📚 Formación Complementaria
 
-- ![TripleTen](https://img.shields.io/badge/TripleTen-000000.svg?style=for-the-badge&logo=data:image/png;base64,iVBOR...)  
-  _(Bootcamp in Data Science – Python, SQL, ML, Business Intelligence)_
-- ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
-- ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
-- ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
+- Bootcamp de Ciencia de Datos – TripleTen (2025)
+- Certificación PMI Ready – IPAE Zegel
+- Cursos en Coursera, edX y Udemy sobre Ciencia de Datos, UX/UI y Automatización
 
 ---
 
-🚀 Let's build things that matter!  
-Check out my latest projects on [GitHub](#) or connect with me on [LinkedIn](#).
+### 💼 ¿Qué busco?
+
+Oportunidades para seguir creciendo como **Data Scientist**, **Analista de Datos** o **Desarrollador Front-End**, aportando valor con creatividad, pensamiento crítico y compromiso con la mejora continua.
+
+---
+
+📫 **Conecta conmigo**:
+- [LinkedIn](https://www.linkedin.com/in/christopherfloresrimac) *(actualiza si es necesario)*
+- [GitHub](https://github.com/tuusuario) *(actualiza si es necesario)*
