@@ -1,115 +1,65 @@
-# 👋 Hola, soy Christopher William Flores Rimac
+<h1 align="center">Christopher William Flores Rimac</h1>
 
-🎓 Estudiante de Ingeniería de Sistemas en la UPC  
-📊 Data Analyst en formación | Data Science Bootcamp Student en TripleTen  
-💻 Apasionado por la ciencia de datos, automatización, desarrollo web y soluciones tecnológicas con impacto real.
+<p align="center">
+  Data Analyst in training | Systems Engineering Student | Python · SQL · Power BI · Data Science
+</p>
 
----
-
-## 🚀 Sobre mí
-
-Soy estudiante avanzado de Ingeniería de Sistemas en la Universidad Peruana de Ciencias Aplicadas (UPC), actualmente fortaleciendo mi perfil en **Data Science y análisis de datos** a través del bootcamp de TripleTen.
-
-Tengo experiencia práctica en proyectos relacionados con **Python, SQL, Power BI, Google Analytics, Google Tag Manager, automatización de procesos, visualización de datos y desarrollo web**. Me interesa transformar datos en información útil para la toma de decisiones, optimización de procesos y mejora de productos digitales.
-
-Además, he trabajado como docente de programación para niños y desarrollo soluciones tecnológicas con enfoque en experiencia de usuario, educación digital e impacto social.
+<p align="center">
+  <a href="https://www.linkedin.com/in/christopherwilliamflores">LinkedIn</a> ·
+  <a href="mailto:cwilliamflores@gmail.com">Email</a>
+</p>
 
 ---
 
-## 🎯 Actualmente estoy enfocado en
+## About Me
 
-- Construir mi portafolio de proyectos de Data Science.
-- Mejorar mis habilidades en Python, SQL, estadística y Machine Learning.
-- Desarrollar dashboards e insights orientados a negocio.
-- Automatizar procesos usando herramientas de datos y scripts.
-- Aplicar analítica digital con Google Tag Manager y Google Analytics.
+I am a Systems Engineering student at UPC and a Data Science student at TripleTen.  
+I am currently building a data science portfolio focused on Python, SQL, data cleaning, exploratory analysis, dashboards, and machine learning.
+
+My goal is to transform data into actionable insights that support business decisions and process improvement.
 
 ---
 
-## 🧠 Lenguajes de Programación
+## Featured Projects
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+| Project | Focus | Tools | Status |
+|---|---|---|---|
+| Store 1 Customer Data Cleaning | Data cleaning and preprocessing | Python, Jupyter | Completed |
+| Exploratory Data Analysis | Business insights and visualization | Python, Pandas, Matplotlib | In progress |
+| SQL Business Analysis | Queries and business metrics | SQL | Coming soon |
+| Machine Learning Projects | Predictive modeling | Python, Scikit-learn | Coming soon |
+
+---
+
+## Tech Stack
+
+### Data & Analytics
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-
----
-
-## 📊 Data Science, Analytics & BI
-
-- Limpieza, transformación y análisis de datos con Python y Pandas.
-- Análisis exploratorio de datos para identificar patrones e insights.
-- Consultas SQL sobre bases de datos relacionales.
-- Visualización de datos con Power BI, Tableau y Matplotlib.
-- Automatización de reportes y procesos con scripts.
-- Modelos básicos de Machine Learning con Scikit-learn.
-- Medición digital con Google Tag Manager y Google Analytics.
-- Creación de dashboards orientados a indicadores de negocio.
-
----
-
-## 🧰 Herramientas y Tecnologías
-
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=PowerBI&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### Digital & Development
+
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
 ![Google Tag Manager](https://img.shields.io/badge/Google%20Tag%20Manager-246FDB?style=for-the-badge&logo=googletagmanager&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-0ACF83?style=for-the-badge&logo=figma&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=WordPress&logoColor=white)
 
 ---
 
-## 📁 Portafolio de Data Science
+## Education
 
-Actualmente estoy construyendo un portafolio con proyectos desarrollados durante mi formación en TripleTen.
-
-### Proyectos en desarrollo
-
-| Proyecto | Enfoque | Herramientas |
-|---|---|---|
-| Store 1 Customer Data Cleaning | Limpieza y preparación de datos de clientes | Python, Jupyter Notebook |
-| Exploratory Data Analysis | Análisis exploratorio de datos | Python, Pandas, Matplotlib |
-| SQL Business Analysis | Consultas y análisis con SQL | SQL |
-| Machine Learning Projects | Modelos predictivos aplicados a negocio | Python, Scikit-learn |
-
-> Cada proyecto busca mostrar no solo código, sino también análisis, conclusiones e interpretación orientada a negocio.
+- Systems Engineering — Universidad Peruana de Ciencias Aplicadas, UPC.
+- Data Science Bootcamp — TripleTen.
+- Complementary courses — Coursera, Platzi, IBM and Google.
 
 ---
 
-## 📚 Formación
+## Contact
 
-- **Ingeniería de Sistemas** – Universidad Peruana de Ciencias Aplicadas, UPC.
-- **Bootcamp en Ciencia de Datos** – TripleTen.
-- **Cursos complementarios** – Coursera, Platzi, IBM y Google.
-
----
-
-## 💼 Intereses profesionales
-
-- Data Analytics
-- Business Intelligence
-- Data Science
-- Machine Learning aplicado a negocio
-- Automatización de procesos
-- Analítica digital
-- Desarrollo de soluciones tecnológicas
-
----
-
-## 🌐 Contacto
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Christopher%20Flores-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopherwilliamflores)
-
-📫 **Email:** cwilliamflores@gmail.com
-
----
-
-✨ Gracias por visitar mi perfil. Estoy abierto a oportunidades, colaboraciones y proyectos donde pueda aportar valor usando datos, tecnología y soluciones digitales.
+[LinkedIn](https://www.linkedin.com/in/christopherwilliamflores)  
+Email: cwilliamflores@gmail.com
